@@ -1,0 +1,31 @@
+body{
+    background-image: url(sources/fondo.jpg);
+    }
+    
+    h1{
+    color: white;
+    font-size: 400%;
+    font-family: "Montserrat", sans-serif;
+    }
+
+
+p{
+    font-family: "Montserrat", sans-serif;
+color: yellow;
+font-size: 150%;
+}
+
+img{
+    border-radius: 5%;
+
+}
+
+.p2{
+    color:white;
+}
+
+a{
+    font-family: "Montserrat";
+    color: white;
+    font-size: 150%;
+}
